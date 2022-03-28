@@ -11,7 +11,7 @@
 ---
 # O que foi desenvolvido
 
-Recebemos uma tabela não normalizada, onde a normalizamos e populamos e também executamos queris para encontrar informações.
+Recebemos uma tabela não normalizada, onde a normalizamos e populamos e também executamos queries para encontrar informações.
 
 ---
 
