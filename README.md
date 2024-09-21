@@ -1,6 +1,6 @@
 
 # Projeto One For All
-- Neste projeto do curso da [Trybe](https://www.betrybe.com/), normalizamos uma tabela e a pooulamos conforme as instruções do projeto.
+- Neste projeto do curso da [Trybe](https://www.betrybe.com/), normalizamos uma tabela e a populamos conforme as instruções do projeto.
 
 # Habilidades desenvolvidas:
 
